@@ -84,6 +84,10 @@ p.lead {
   color: #F0DB4F;
 }
 
+.navbar {
+  background-color: #252525;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
@@ -97,6 +101,8 @@ p.lead {
 #sideNav .nav-link {
   font-weight: bold;
 }
+
+
 
 @media (min-width: 992px) {
   #sideNav {
@@ -167,7 +173,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: ##F0DB4F !important;
+  background-color: #F0DB4F !important;
 }
 
 .text-primary {
